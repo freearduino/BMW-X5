@@ -1,2 +1,7 @@
 # BMW-X5
-Development and programming of electronics for a car
+Разработка электроники для управления:
+- [телевизором](https://github.com/freearduino/BMW-X5/tree/main/TV)
+- выезжающей панелью приборов
+- джостик вкл/выкл усилителей и подсветки в авто
+
+
